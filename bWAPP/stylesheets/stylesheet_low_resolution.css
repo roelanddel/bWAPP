@@ -94,8 +94,8 @@ header {
         font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial, serif; 
         background: #ffb717 url("../images/bg_1.jpg") 0px 0px repeat-x;
         border-bottom: solid 0px #191919;
-        padding-top: 44px;
-        padding-bottom: 38px;
+        padding-top: 28px;
+        padding-bottom: 28px;
         padding-left: 100px;
         min-width: 1160px;
         /*min-width: 940px;*/
@@ -121,8 +121,8 @@ header h2 {
         font-size: 18px;
         color: #ffffff;
         background: url("../images/bg_2.jpg") 0px 0px repeat-x;
-        padding-top: 20px;
-        padding-bottom: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         padding-left: 10px;
         min-width: 1250px;
         /*min-width: 1030px;*/
@@ -155,7 +155,7 @@ header h2 {
 
 #main {
         padding-left: 100px;
-        padding-top: 25px;    
+        padding-top: 20px;    
         position: relative;
         width: 760px;
         margin-bottom: 50px;
@@ -173,10 +173,10 @@ header h2 {
 
 #main h1 {
         font-family: "Architects Daughter", "Helvetica Neue", Helvetica, Arial, serif; 
-        font-size: 40px;
+        font-size: 36px;
         letter-spacing: -1px;
         color: #474747;
-        padding-bottom: 12px;
+        padding-bottom: 10px;
 } 
 
 #main h1:before {
@@ -196,7 +196,7 @@ header h2 {
         font-size: 30px;
         letter-spacing: -1px;
         color: #474747;
-        padding-bottom: 18px;
+        padding-bottom: 16px;
 } 
 
 #main h2:before {
@@ -225,7 +225,7 @@ header h2 {
         padding-left: 40px;
         min-height: 400px;
         position: absolute;
-        top: 300px;
+        top: 250px;
         left: 980px;
 }
 
@@ -233,7 +233,7 @@ header h2 {
         min-height: 100px;
         min-width: 467px;
         position: absolute;
-        top: 500px;
+        top: 438px;
         left: 470px;
 }
 
@@ -241,7 +241,7 @@ header h2 {
         min-height: 100px;
         min-width: 467px;
         position: absolute;
-        top: 300px;
+        top: 250px;
         left: 470px;
 }
 
@@ -255,7 +255,7 @@ header h2 {
         font-size: 14px;
         color: #ffffff;
         background: url("../images/bg_2.jpg") 0px 0px repeat-x;
-        padding: 9px;
+        padding: 6px;
         padding-left: 50px;
         position: fixed;
         bottom: 0px;
@@ -291,7 +291,7 @@ header h2 {
 
 #bee {
         position: absolute;
-        top: 18px;
+        top: 6px;
         left: 342px;
         height: 35px;
         width: 35px;
