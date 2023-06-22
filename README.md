@@ -1,1 +1,1 @@
-# bWAPP
+# bWAPP v2.2
